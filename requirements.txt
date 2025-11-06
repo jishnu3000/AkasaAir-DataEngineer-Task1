@@ -1,0 +1,6 @@
+pandas
+lxml
+sqlalchemy
+pymysql
+python-dotenv
+tabulate
