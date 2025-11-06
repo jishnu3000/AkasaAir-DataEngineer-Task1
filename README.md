@@ -34,4 +34,4 @@
 - python-dotenv
 - tabulate
 
-Install pandas with: `pip install -r requirements.txt`
+Install with: `pip install -r requirements.txt`
