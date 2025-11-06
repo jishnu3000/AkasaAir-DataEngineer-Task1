@@ -1,6 +1,4 @@
-# Simple Data Processing Project
-
-This is a beginner-friendly data processing project that analyzes customer and order data.
+# Akasa Air Data Engineer Task 1
 
 ## What this project does:
 
@@ -28,17 +26,12 @@ This is a beginner-friendly data processing project that analyzes customer and o
 
 ## Requirements:
 
-- Python 3.x
-- pandas library
+- Python 3.13
+- pandas
+- lxml
+- sqlalchemy
+- pymysql
+- python-dotenv
+- tabulate
 
-Install pandas with: `pip install pandas`
-
-## Simple and beginner-friendly!
-
-The code uses basic Python concepts:
-
-- Simple functions
-- Basic error handling with try/except
-- Clear variable names
-- Lots of print statements to show progress
-- No complex logging or advanced features
+Install pandas with: `pip install -r requirements.txt`
